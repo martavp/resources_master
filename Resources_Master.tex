@@ -1,0 +1,206 @@
+\documentclass[3p]{elsarticle} % seleccionar: preprint, review, 1p, 3p, 5p
+% Add following lines to remove the footnote "preprint submited to"
+\makeatletter
+\def\ps@pprintTitle{%
+ \let\@oddhead\@empty
+ \let\@evenhead\@empty
+ \def\@oddfoot{}%
+ \let\@evenfoot\@oddfoot}
+\makeatother
+
+% Add following two lines to use Arial
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Add following line to get figures capation as Figure S1
+%\renewcommand{\thefigure}{S\arabic{figure}}
+%\renewcommand{\thetable}{S\arabic{table}}
+%\renewcommand{\thesubsection}{S\arabic{subsection}}
+%\renewcommand{\refname}{Supplemental References}
+
+\usepackage{mathtools}
+\journal{ }
+
+
+%to force all images and table in one single section
+\usepackage{placeins}
+% It is necesary to add \FloatBarrier in the text. 
+% After that order, all the floating are shown.
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% Elsevier bibliography styles
+%%%%%%%%%%%%%%%%%%%%%%%
+%% To change the style, put a % in front of the second line of the current style and
+%% remove the % from the second line of the style you would like to use.
+%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Numbered
+%\bibliographystyle{model1-num-names}
+
+%% Numbered without titles
+%\bibliographystyle{model1a-num-names}
+
+%% Harvard
+%\bibliographystyle{model2-names.bst}\biboptions{authoryear}
+
+%% Vancouver numbered
+%\usepackage{numcompress}\bibliographystyle{model3-num-names}
+
+%% Vancouver name/year
+%\usepackage{numcompress}\bibliographystyle{model4-names}\biboptions{authoryear}
+
+%% APA style
+%\bibliographystyle{model5-names}\biboptions{authoryear}
+
+%% AMA style
+%\usepackage{numcompress}\bibliographystyle{model6-num-names}
+
+%% `Elsevier LaTeX' style
+\bibliographystyle{elsarticle-num}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\hyphenation{}
+\usepackage{eurosym}
+\usepackage{threeparttable} % allow the use of footnote within tables
+
+\usepackage{url}
+\usepackage[colorlinks=true, citecolor=blue, linkcolor=blue, filecolor=blue,urlcolor=blue]{hyperref}
+
+%to add the number to the lines
+\usepackage{lineno}
+\modulolinenumbers[5]
+
+\usepackage{lineno,hyperref}
+\modulolinenumbers[1]
+\usepackage{amsmath}
+\usepackage{siunitx}
+\usepackage{eurosym}
+\biboptions{numbers,sort&compress}
+\usepackage[europeanresistors,americaninductors]{circuitikz}
+\usepackage{adjustbox}
+\usepackage{xspace}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{graphicx,dblfloatfix}
+\usepackage{csvsimple}
+\usepackage{amsmath}
+%% new commands
+\newcommand{\ubar}[1]{\text{\b{$#1$}}}
+\newcommand*\OK{\ding{51}}
+%\renewcommand*\nompostamble{\end{multicols}}
+\newcommand{\specialcell}[2][c]{%
+	\begin{tabular}[#1]{@{}l@{}}#2\end{tabular}}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}	
+
+\def\co{CO${}_2$}
+\def\el{${}_{\textrm{el}}$}
+\def\th{${}_{\textrm{th}}$}
+
+
+%\renewcommand*{\today}{July, 10 2018}
+%\hypersetup{draft} %to avoid problems with hyperref while drafting
+
+\begin{document}
+
+\begin{frontmatter}
+\title{Recommended resources for a Master project}
+
+\author[mymainaddress]{Marta Victoria}
+\address[mymainaddress]{\href{mvp@eng.au.dk}{mvp@eng.au.dk}, Department of Engineering, Aarhus University, Inge Lehmanns Gade 10, 8000 Aarhus, Denmark}
+%\address[iClimate]{iCLIMATE Interdisciplinary Centre for Climate Change, Aarhus University}
+
+%\begin{abstract}
+
+%\end{abstract}
+
+%\begin{keyword}
+
+%\texttt{elsarticle.cls}\sep \LaTeX\sep Elsevier \sep template
+%\MSC[2010] 00-01\sep  99-00
+%\end{keyword}
+
+\end{frontmatter}
+
+\pagenumbering{gobble} % supress page numbers
+
+This document contains suggestions and links to resources that might be useful for performing and writing a Master project. 
+You might also find them useful for pre-thesis, R\&D or course projects.
+
+\section{Existing literature on a research topic}
+
+To search for scientific articles on a research topic the following search engines are recommended.
+
+\begin{itemize}
+\item \href{https://scholar.google.com/}{https://scholar.google.com/}
+\item \href{https://www.sciencedirect.com/}{https://www.sciencedirect.com/}
+\end{itemize}
+
+This \href{https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper}{infographic} provides suggestions on how to read scientific papers. 
+
+\section{Writing style}
+
+\subsection{Style}
+Similarly to a scientific article, a master project must include the following sections:
+
+\begin{itemize}
+\item Abstract (English and Danish)
+\item Introduction
+\item Methodology (Modelling or experimental methods) 
+\item Results
+\item Conclusions
+\item Bibliography
+\end{itemize}
+
+This reference \cite{Socolofsky_2004} nicely describes what is the purpose of each section and what should be included in each of them. \\
+
+It is highly recommended to write the manuscript using Latex. You might want to use the online tool \href{https://es.overleaf.com}{overleaf} that allows writing shared tex documents and it is very intuitive.\\
+
+You can find a template for the Master project in \href{https://github.com/martavp/resources_master/blob/master/LatexTemplate_MasterThesisProject.zip}{this folder}, which is known to work in overleaf. The use of this particular template is not mandatory.
+
+\subsection{Language}
+
+\href{https://app.grammarly.com/}{Grammarly} is a nice tool to check your text and avoid spelling errors. \\
+
+For Danish speakers, this \href{https://www.youtube.com/watch?v=I_i9bvv3N4M}{video} summarizes the key rules on how to use commas in English. 
+
+
+\section{Add a license to your Master thesis and code.}
+ 
+\textbf{Why?} A license clarifies the conditions under which your code, text, data, or figures can be reused. In the absence of a license, the author still retains proprietary copyright, and the conditions under which the materials can be used are unclear. You want other people to use your work, the best way is to create the conditions so that they can do it. \\
+
+\textbf{How?} You can select a license using \href{https://choosealicense.com/}{https://choosealicense.com/}. For a master thesis, the easiest is to use \href{https://creativecommons.org/licenses/by/4.0/}{Creative Commons Attribution 4.0 International}. To do that you need to add the following sentence to one of the first pages of your document
+\begin{quote}
+
+\textit{Copyright  \textcopyright  2020 *add your name* $<$ *add your email* $>$ \\
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC-BY).}
+
+\end{quote}
+
+
+
+\section{Open Energy Modelling}
+
+The Open Energy Modelling Initiative gathers Master, PhD Students and other researchers dealing with energy modelling worldwide. It is a wonderful platform to learn what others are doing and what has been done in the past. To search on a particular topic you can: (a) register \href{https://forum.openmod-initiative.org/}{in the forum} and search by topic, (b) subscribe to the \href{https://groups.google.com/forum/#!forum/openmod-initiative/home}{distribution list} where you can also search on previous topics or look in the \href{https://wiki.openmod-initiative.org/wiki}{wiki}. 
+
+\section{Python and PyPSA}
+
+A step-by-step description of how to install python and PyPSA can be found in the \href{https://github.com/martavp/RES_project/blob/master/Instructions_RES_project.pdf}{repository} for the course project of Renewable Energy Systems. The repository includes also a tutorial to check that everything is working and start going. 
+
+\subsection{Coding}
+
+It is highly recommended to write high-quality code with proper levels of documentation so that the analyses that you perform can be understood, used and extended by others. Most probably, you will benefit the most from it when you try to read you own code some weeks after writing it. \\
+
+\href{https://www.python.org/dev/peps/pep-0008/}{PEP-8} is a standard to write easy-to-read python code. Take a look at it and try to follow the rules in PEP-8.
+
+\subsection{Sharing code}
+
+To write code in a collaborative way, researchers use repositories where improvements can be progressively added. Two platforms that host public and private repositories are \href{https:\\github.com}{Github} and \href{https:\\gitlab.com}{Gitlab}. In short, every user has its own local copy of the repository where he/she makes changes and push them to the remote repository shared by the collaborators. You can create your own repository to share your project with others and allow them to contribute to it. Similarly, you can contribute to projects by other researchers.\\
+\href{https://data.ene.iiasa.ac.at/teaching/osesm_2020_lecture_1_recording.html}{Part 4 of this video} presents a nice summary on how to use Github. 
+
+\bibliography{bibliography}
+
+\end{document}

@@ -9,187 +9,191 @@ Input:7:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
 Input:8:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
 Input:9:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
 Input:10:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-Input:11:C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty
-Input:12:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
-Input:13:C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
-Input:14:C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
-Input:15:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
-Input:16:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty
-Input:17:C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
-Input:18:C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
-Input:19:C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
-Input:20:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-Input:21:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-Input:22:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-Input:23:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-Input:24:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-Input:25:C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty
-Input:26:C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty
-Input:27:C:\Program Files\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty
-Input:28:C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
-Input:29:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
-Input:30:C:\Program Files\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
-Input:31:C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
-Input:32:C:\Program Files\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
-Input:33:C:\Program Files\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
-Input:34:C:\Program Files\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
-Input:35:C:\Program Files\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
-Input:36:C:\Program Files\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
-Input:37:C:\Program Files\MiKTeX 2.9\tex\latex\hycolor\xcolor-patch.sty
-Input:38:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
-Input:39:C:\Program Files\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
-Input:40:C:\Program Files\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
-Input:41:C:\Program Files\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
-Input:42:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-Input:43:C:\Program Files\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
-Input:44:C:\Program Files\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
-Input:45:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
-Input:46:C:\Program Files\MiKTeX 2.9\tex\generic\bitset\bitset.sty
-Input:47:C:\Program Files\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
-Input:48:C:\Program Files\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
-Input:49:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
-Input:50:C:\Program Files\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
-Input:51:C:\Program Files\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
-Input:52:C:\Program Files\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
-Input:53:C:\Program Files\MiKTeX 2.9\tex\latex\lineno\lineno.sty
-Input:54:C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
-Input:55:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-Input:56:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
-Input:57:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
-Input:58:C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-Input:59:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
-Input:60:C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
-Input:61:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
-Input:62:C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator.sty
-Input:63:C:\Program Files\MiKTeX 2.9\tex\latex\circuitikz\circuitikz.sty
-Input:64:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
-Input:65:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
-Input:66:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
-Input:67:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
-Input:68:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
-Input:69:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
-Input:70:C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty
-Input:71:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
-Input:72:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
-Input:73:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
-Input:74:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
-Input:75:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
-Input:76:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-Input:77:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
-Input:78:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
-Input:79:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-Input:80:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-Input:81:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-Input:82:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-Input:83:C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
-Input:84:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-Input:85:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
-Input:86:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
-Input:87:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
-Input:88:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
-Input:89:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
-Input:90:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
-Input:91:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
-Input:92:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
-Input:93:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
-Input:94:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
-Input:95:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
-Input:96:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
-Input:97:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
-Input:98:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
-Input:99:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
-Input:100:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
-Input:101:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-Input:102:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
-Input:103:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
-Input:104:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-Input:105:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
-Input:106:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
-Input:107:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
-Input:108:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
-Input:109:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
-Input:110:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-Input:111:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
-Input:112:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
-Input:113:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
-Input:114:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-Input:115:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
-Input:116:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
-Input:117:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
-Input:118:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-Input:119:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-Input:120:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-Input:121:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-Input:122:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
-Input:123:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
-Input:124:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-Input:125:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
-Input:126:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
-Input:127:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
-Input:128:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
-Input:129:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-Input:130:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-Input:131:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-Input:132:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-Input:133:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-Input:134:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
-Input:135:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybending.code.tex
-Input:136:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulebending.code.tex
-Input:137:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulenonlineartransformations.code.tex
-Input:138:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibrarycurvilinear.code.tex
-Input:139:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc.defines.tex
-Input:140:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircutils.tex
-Input:141:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircshapes.tex
-Input:142:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircmonopoles.tex
-Input:143:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircbipoles.tex
-Input:144:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirctripoles.tex
-Input:145:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircquadpoles.tex
-Input:146:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircmultipoles.tex
-Input:147:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirclabel.tex
-Input:148:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircvoltage.tex
-Input:149:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirccurrent.tex
-Input:150:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircflow.tex
-Input:151:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircpath.tex
-Input:152:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
-Input:153:C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
-Input:154:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
-Input:155:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
-Input:156:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
-Input:157:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
-Input:158:C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
-Input:159:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
-Input:160:C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
-Input:161:C:\Program Files\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
-Input:162:C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
-Input:163:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
-Input:164:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
-Input:165:C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
-Input:166:C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
-Input:167:C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
-Input:168:C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
-Input:169:C:\Program Files\MiKTeX 2.9\tex\latex\dblfloatfix\dblfloatfix.sty
-Input:170:C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty
-Input:171:C:\Program Files\MiKTeX 2.9\tex\latex\csvsimple\csvsimple.sty
-Input:172:C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
-Input:173:C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
-Input:174:C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
-Input:175:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd
-Input:176:C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
-Input:177:C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
-Input:178:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
-Input:179:C:\Program Files\MiKTeX 2.9\tex\latex\refcount\refcount.sty
-Input:180:C:\Program Files\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-Input:181:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
-Input:182:C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
-Input:183:C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
-Input:184:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd
+Input:11:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.spl
+Input:12:C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty
+Input:13:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+Input:14:C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+Input:15:C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+Input:16:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+Input:17:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty
+Input:18:C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+Input:19:C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+Input:20:C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+Input:21:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+Input:22:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+Input:23:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+Input:24:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+Input:25:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+Input:26:C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty
+Input:27:C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty
+Input:28:C:\Program Files\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty
+Input:29:C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+Input:30:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+Input:31:C:\Program Files\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+Input:32:C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+Input:33:C:\Program Files\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+Input:34:C:\Program Files\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+Input:35:C:\Program Files\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+Input:36:C:\Program Files\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+Input:37:C:\Program Files\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+Input:38:C:\Program Files\MiKTeX 2.9\tex\latex\hycolor\xcolor-patch.sty
+Input:39:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
+Input:40:C:\Program Files\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+Input:41:C:\Program Files\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+Input:42:C:\Program Files\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+Input:43:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+Input:44:C:\Program Files\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+Input:45:C:\Program Files\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+Input:46:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+Input:47:C:\Program Files\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+Input:48:C:\Program Files\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+Input:49:C:\Program Files\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+Input:50:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+Input:51:C:\Program Files\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+Input:52:C:\Program Files\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+Input:53:C:\Program Files\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+Input:54:C:\Program Files\MiKTeX 2.9\tex\latex\lineno\lineno.sty
+Input:55:C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+Input:56:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+Input:57:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+Input:58:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
+Input:59:C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+Input:60:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+Input:61:C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+Input:62:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+Input:63:C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator.sty
+Input:64:C:\Program Files\MiKTeX 2.9\tex\latex\circuitikz\circuitikz.sty
+Input:65:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+Input:66:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+Input:67:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+Input:68:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+Input:69:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+Input:70:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+Input:71:C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+Input:72:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+Input:73:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+Input:74:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+Input:75:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+Input:76:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Input:77:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:78:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+Input:79:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+Input:80:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+Input:81:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+Input:82:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+Input:83:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+Input:84:C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+Input:85:C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+Input:86:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Input:87:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:88:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+Input:89:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+Input:90:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+Input:91:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+Input:92:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+Input:93:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+Input:94:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+Input:95:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+Input:96:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+Input:97:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+Input:98:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+Input:99:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+Input:100:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+Input:101:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+Input:102:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+Input:103:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+Input:104:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+Input:105:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+Input:106:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+Input:107:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+Input:108:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+Input:109:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+Input:110:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+Input:111:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+Input:112:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+Input:113:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+Input:114:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+Input:115:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+Input:116:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+Input:117:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+Input:118:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+Input:119:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+Input:120:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+Input:121:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Input:122:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Input:123:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+Input:124:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+Input:125:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+Input:126:C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+Input:127:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:128:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+Input:129:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+Input:130:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Input:131:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+Input:132:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+Input:133:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+Input:134:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+Input:135:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+Input:136:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybending.code.tex
+Input:137:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulebending.code.tex
+Input:138:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulenonlineartransformations.code.tex
+Input:139:C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibrarycurvilinear.code.tex
+Input:140:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc.defines.tex
+Input:141:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircutils.tex
+Input:142:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircshapes.tex
+Input:143:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircmonopoles.tex
+Input:144:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircbipoles.tex
+Input:145:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirctripoles.tex
+Input:146:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircquadpoles.tex
+Input:147:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircmultipoles.tex
+Input:148:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirclabel.tex
+Input:149:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircvoltage.tex
+Input:150:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcirccurrent.tex
+Input:151:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircflow.tex
+Input:152:C:\Program Files\MiKTeX 2.9\tex\generic\circuitikz\pgfcircpath.tex
+Input:153:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
+Input:154:C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+Input:155:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+Input:156:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+Input:157:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
+Input:158:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
+Input:159:C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
+Input:160:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
+Input:161:C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+Input:162:C:\Program Files\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+Input:163:C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
+Input:164:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+Input:165:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+Input:166:C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+Input:167:C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+Input:168:C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+Input:169:C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+Input:170:C:\Program Files\MiKTeX 2.9\tex\latex\dblfloatfix\dblfloatfix.sty
+Input:171:C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty
+Input:172:C:\Program Files\MiKTeX 2.9\tex\latex\csvsimple\csvsimple.sty
+Input:173:C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+Input:174:C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+Input:175:C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+Input:176:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.aux
+Input:177:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd
+Input:178:C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+Input:179:C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+Input:180:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+Input:181:C:\Program Files\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+Input:182:C:\Program Files\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+Input:183:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.out
+Input:184:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.out
+Input:185:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+Input:186:C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+Input:187:C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+Input:188:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd
 Output:pdf
 Magnification:1000
 Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!14300
+!14696
 {1
 [1,174:4736286,49251839:30178276,44515553,0
 h1,174:4736286,4736286:0,0,0
@@ -232,7 +236,7 @@ x1,126:29162484,7998178
 g1,126:29162484,7998178
 k1,126:34914562,7998178:5752078
 )
-(1,126:4243714,9964258:30670848,561011,10808
+(1,126:4243714,9964258:30670848,486235,10808
 k1,126:17396104,9964258:13152390
 h1,126:17396104,9964258:0,0,0
 x1,126:18524624,9964258
@@ -241,7 +245,7 @@ g1,126:19279574,9964258
 x1,126:20954653,9964258
 x1,126:21474340,9964258
 $1,126:21474340,9964258
-(1,126:21474340,9726433:287831,323186,0
+(1,126:21474340,9726433:287831,248410,7565
 x1,126:21729403,9726433
 )
 $1,126:21762171,9964258
@@ -692,61 +696,63 @@ g1,156:34914561,36466026
 (1,159:4243714,37907818:30670848,478735,140240
 h1,158:4243714,37907818:983040,0,0
 x1,158:6464722,37907818
-k1,158:6670112,37907818:205390
-x1,158:7252720,37907818
-x1,158:7434903,37907818
-x1,158:7997854,37907818
-x1,158:9418662,37907818
-k1,158:9624052,37907818:205390
-x1,158:10206659,37907818
-k1,158:10501711,37907818:295052
-x1,158:10683894,37907818
-k1,158:10978946,37907818:295052
-x1,158:12654034,37907818
-k1,158:12859424,37907818:205390
-x1,158:13588176,37907818
-x1,158:14461768,37907818
-x1,158:15673511,37907818
-k1,158:15878901,37907818:205390
-x1,158:17263004,37907818
-k1,158:17468394,37907818:205390
-x1,158:17941562,37907818
-k1,158:18146952,37907818:205390
-x1,158:19057887,37907818
-k1,158:19263277,37907818:205390
-x1,158:19992029,37907818
-x1,158:20210261,37907818
-x1,158:21650725,37907818
-k1,158:21856115,37907818:205390
-x1,158:22402674,37907818
-k1,158:22608064,37907818:205390
-x1,158:24028872,37907818
-k1,158:24234262,37907818:205390
-x1,158:25253998,37907818
-x1,158:26310421,37907818
-k1,158:26515811,37907818:205390
-x1,158:27608939,37907818
-k1,158:27814329,37907818:205390
-x1,158:29198432,37907818
-k1,158:29403822,37907818:205390
-x1,158:31334494,37907818
-k1,158:31539884,37907818:205390
-x1,158:32268636,37907818
-k1,158:32474026,37907818:205390
-x1,158:32983890,37907818
+k1,158:6652789,37907818:188067
+x1,158:7235397,37907818
+x1,158:7417580,37907818
+x1,158:7980531,37907818
+x1,158:9401339,37907818
+k1,158:9589406,37907818:188067
+x1,158:9771589,37907818
+(1,158:9771589,37907818:364376,461695,0
+x1,158:10135965,37907818
+)
+x1,158:10318148,37907818
+k1,158:10506215,37907818:188067
+x1,158:12181303,37907818
+k1,158:12369370,37907818:188067
+x1,158:13098122,37907818
+x1,158:13971714,37907818
+x1,158:15183457,37907818
+k1,158:15371524,37907818:188067
+x1,158:16755627,37907818
+k1,158:16943694,37907818:188067
+x1,158:17416862,37907818
+k1,158:17604929,37907818:188067
+x1,158:18515864,37907818
+k1,158:18703931,37907818:188067
+x1,158:19432683,37907818
+x1,158:19650915,37907818
+x1,158:21091379,37907818
+k1,158:21279445,37907818:188066
+x1,158:21826004,37907818
+k1,158:22014071,37907818:188067
+x1,158:23434879,37907818
+k1,158:23622946,37907818:188067
+x1,158:24642682,37907818
+x1,158:25699105,37907818
+k1,158:25887172,37907818:188067
+x1,158:26980300,37907818
+k1,158:27168367,37907818:188067
+x1,158:28552470,37907818
+k1,158:28740537,37907818:188067
+x1,158:30671209,37907818
+k1,158:30859276,37907818:188067
+x1,158:31588028,37907818
+k1,158:31776095,37907818:188067
+x1,158:32285959,37907818
+x1,158:34216631,37907818
+k1,158:34404698,37907818:188067
 x1,158:34914562,37907818
 k1,158:34914562,37907818:0
 )
 (1,159:4243714,38694250:30670848,478735,10808
-x1,159:4753578,38694250
-g1,158:4935761,38694250
-x1,158:6356569,38694250
-g1,158:6538752,38694250
-x1,158:7085311,38694250
-g1,158:7267494,38694250
-x1,158:8906524,38694250
-k1,159:34914562,38694250:26008038
-g1,159:34914562,38694250
+x1,159:5664522,38694250
+g1,158:5846705,38694250
+x1,158:6393264,38694250
+g1,158:6575447,38694250
+x1,158:8214477,38694250
+k1,159:34914561,38694250:26700084
+g1,159:34914561,38694250
 )
 (1,159:4243714,39480682:30670848,0,0
 g1,159:4243714,39480682
@@ -1028,9 +1034,10 @@ h1,174:4243714,49251839:30670848,0,0
 ]
 ]
 ]
-!21201
+!21247
 }1
-!10
+Input:189:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.bbl
+!109
 {2
 [1,206:4736286,49251839:30178276,44515553,0
 [1,206:4736286,4736286:0,0,0
@@ -2335,6 +2342,131 @@ x1,202:23714835,40535551
 k1,203:34914562,40535551:11199727
 g1,203:34914562,40535551
 )
+(189,1:4243714,42501631:30670848,478084,6548
+(189,1:4243714,42501631:0,0,0
+g189,1:4243714,42501631
+)
+(189,1:4243714,42501631:0,0,0
+(189,1:4243714,42501631:0,0,0
+(189,1:4243714,41715199:0,0,0
+)
+)
+g189,1:4243714,42501631
+)
+x189,1:5299490,42501631
+x189,1:7770169,42501631
+k189,1:34914561,42501631:27144392
+g189,1:34914561,42501631
+)
+(189,13:5154389,43714047:29760173,386400,116653
+(189,8:5154389,43714047:0,378793,103805
+g189,8:5154389,43714047
+g189,8:4571394,43714047
+g189,8:4243714,43714047
+(189,8:4243714,43714047:582995,378793,103805
+g189,8:4243714,43714047
+g189,8:4243714,43714047
+(189,8:4243714,43714047:0,0,0
+(189,8:4243714,43091455:0,0,0
+)
+)
+x189,8:4826709,43714047
+)
+g189,8:5154389,43714047
+)
+x189,8:5504085,43714047
+k189,9:5154389,43714047:-10483
+x189,9:5639349,43714047
+g189,9:5785096,43714047
+x189,9:6280539,43714047
+g189,9:6426286,43714047
+x189,9:8961198,43714047
+x189,9:9054516,43714047
+g189,9:9200263,43714047
+x189,9:9870298,43714047
+k189,11:9200263,43714047:-7859
+x189,11:10240973,43714047
+g189,11:10386720,43714047
+x189,11:10823968,43714047
+g189,11:10969715,43714047
+x189,11:11522835,43714047
+x189,11:12084332,43714047
+g189,11:12230079,43714047
+x189,11:12521580,43714047
+g189,11:12667327,43714047
+x189,11:14706791,43714047
+g189,11:14852538,43714047
+x189,11:15726516,43714047
+x189,11:16439015,43714047
+g189,11:16584762,43714047
+x189,11:17050849,43714047
+x189,11:18003987,43714047
+g189,11:18149734,43714047
+x189,11:18557625,43714047
+g189,11:18703372,43714047
+x189,11:20743354,43714047
+x189,11:21450605,43714047
+g189,11:21596352,43714047
+x189,11:22470855,43714047
+g189,11:22616602,43714047
+x189,11:24393927,43714047
+g189,11:24539674,43714047
+x189,11:26200597,43714047
+k189,12:34914562,43714047:8713965
+g189,13:34914562,43714047
+)
+(189,13:5154389,44336639:29760173,378793,116508
+x189,13:6202958,44336639
+g189,12:6348705,44336639
+$189,12:6348705,44336639
+x189,12:7741365,44336639
+g189,12:7741365,44336639
+x189,12:8019897,44336639
+g189,12:8019897,44336639
+x189,12:8298429,44336639
+g189,12:8298429,44336639
+x189,12:8576961,44336639
+g189,12:8576961,44336639
+x189,12:10526685,44336639
+g189,12:10526685,44336639
+x189,12:10805217,44336639
+g189,12:10805217,44336639
+x189,12:12197877,44336639
+g189,12:12197877,44336639
+x189,12:12476409,44336639
+g189,12:12476409,44336639
+x189,12:13590537,44336639
+g189,12:13590537,44336639
+x189,12:13869069,44336639
+g189,12:13869069,44336639
+x189,12:14704665,44336639
+g189,12:14704665,44336639
+x189,12:14983197,44336639
+g189,12:14983197,44336639
+x189,12:18047049,44336639
+g189,12:18047049,44336639
+x189,12:18325581,44336639
+g189,12:18325581,44336639
+x189,12:20832369,44336639
+g189,12:20832369,44336639
+x189,12:21110901,44336639
+g189,12:21110901,44336639
+x189,12:22503561,44336639
+g189,12:22503561,44336639
+x189,12:22782093,44336639
+g189,12:22782093,44336639
+x189,12:23896221,44336639
+(189,12:23896221,44402175:32768,0,0
+)
+x189,12:24486053,44336639
+g189,12:24486053,44336639
+x189,12:24764585,44336639
+g189,12:24764585,44336639
+x189,12:25600181,44336639
+$189,12:25600181,44336639
+k189,13:34914562,44336639:9314381
+g189,13:34914562,44336639
+)
 ]
 (1,206:4243714,49251839:30670848,0,0
 (1,206:4243714,49251839:30670848,0,0
@@ -2345,11 +2477,11 @@ k1,206:34914562,49251839:15335424
 ]
 ]
 ]
-!34622
+!37697
 }2
-Input:185:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.aux
+Input:190:C:\Users\34620\Dropbox\AU\GIT_REPOS_GITHUB_DESKTOP\resources_master\Resources_Master.aux
 !109
 Postamble:
-Count:1085
+Count:1163
 !27
 Post scriptum:

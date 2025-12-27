@@ -1,11 +1,20 @@
 \BOOKMARK [1][-]{section.1}{Existing literature on a research topic}{}% 1
 \BOOKMARK [1][-]{section.2}{Writing style}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Style}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Language}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Figures}{}% 5
-\BOOKMARK [1][-]{section.4}{Add a license to your Master thesis and code.}{}% 6
-\BOOKMARK [1][-]{section.5}{Example of Master thesis document from previous students}{}% 7
-\BOOKMARK [1][-]{section.6}{Open Energy Modelling}{}% 8
-\BOOKMARK [1][-]{section.7}{Python and PyPSA}{}% 9
-\BOOKMARK [2][-]{subsection.7.1}{Coding}{section.7}% 10
-\BOOKMARK [2][-]{subsection.7.2}{Sharing code}{section.7}% 11
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Summary}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Introduction}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Methodology \(Modelling or experimental methods\) }{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Results}{subsection.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Discussion}{subsection.2.1}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.6}{Conclusions}{subsection.2.1}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.7}{Outlook}{subsection.2.1}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.8}{Bibliography}{subsection.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.2}{Figures}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.3}{Template}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.4}{Language}{section.2}% 14
+\BOOKMARK [1][-]{section.3}{Add a license to your Master thesis and code.}{}% 15
+\BOOKMARK [1][-]{section.4}{Example of Master thesis document from previous students}{}% 16
+\BOOKMARK [1][-]{section.5}{Open Energy Modelling}{}% 17
+\BOOKMARK [1][-]{section.6}{Python, PyPSA and PyPSA-Eur}{}% 18
+\BOOKMARK [2][-]{subsection.6.1}{Coding}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.2}{Sharing code}{section.6}% 20
